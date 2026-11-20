@@ -114,3 +114,4 @@ tekshirish kerak.
 Author identity unknown C Git’da foydalanuvchi ismi va emaili kiritilmagan;
 git config --global orqali sozlanadi..
 Bu main shoxidagi versiya
+Bu matn shoxidagi versiya
