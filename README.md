@@ -112,4 +112,4 @@ F Shox nomi xato yozilgan ( dizayn o‘rniga
 dizayin ); git branch bilan aniq nomni
 tekshirish kerak.
 Author identity unknown C Git’da foydalanuvchi ismi va emaili kiritilmagan;
-git config --global orqali sozlanadi.
+git config --global orqali sozlanadi..
